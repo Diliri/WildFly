@@ -1,4 +1,4 @@
-# WildFly-Servlet-Example
+#  WildFly-Servlet-Example
 
 ## Please perform the next steps to setup a full pack of applications:
 
