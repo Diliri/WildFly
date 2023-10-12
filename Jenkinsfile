@@ -1,5 +1,7 @@
 pipeline {
-    agent { label "ubuntu-slave" }
+    agent { 
+        label "ubuntu-slave" 
+    }
 
     tools {
         // Install the Maven version configured as "M3" and add it to the path.
